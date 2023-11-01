@@ -1,4 +1,4 @@
-![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/Shrini9797/Shrini9797/assets/143311077/9e7ea8e1-af82-4c66-bcd1-a78767bb2052)
+![Black And Purple Modern Gaming Youtube Banner](https://github.com/Shrini9797/Shrini9797/assets/143311077/212ac498-093d-4984-9c19-02d66b0bd476)
 
 
 
