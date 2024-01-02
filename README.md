@@ -58,10 +58,12 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 <h2 align = "center">  Data Visualisation Projects </h2> 
 
-|  [Netflix Movies Analysis](https://github.com/iqrabismii/Data-Visualisation-Project/tree/main/AnalysisOnNetflixMovies)|
+|  [The-Voice-of-the-Developers-AI-IN-FOCUS-2023](https://github.com/Shrini9797/Predictive-Analysis-Visualization-Stack-Overflow-Survey-2023-)|
 | :-: |
-| [<img src = "https://user-images.githubusercontent.com/108056063/210528212-80f34cfb-ab0e-4fad-a442-cac51600a87c.png" width = 500 height = 300/>](https://github.com/iqrabismii/Data-Visualisation-Project/tree/main/AnalysisOnNetflixMovies)| 
+| [<img src = "https://github.com/Shrini9797/Shrini9797/assets/143311077/850f360c-6f60-4e72-b80c-e656efc92a82" width = 500 height = 300/>](https://github.com/Shrini9797/Predictive-Analysis-Visualization-Stack-Overflow-Survey-2023-)| 
 <hr style="border:0.01px solid blue">
+
+
  
  
 <h2 align = "center"> SQL Case Study</h2> 
