@@ -2,7 +2,7 @@
 
 **`🧑‍💻 Data Engineer and Analytics Professional`**
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Shrinivas, Data Engineering & Analytics Professional with over 2 years of experience in developing data-driven insights, optimizing data processes, and building predictive models to support strategic decision-making. Proficient in Python, SQL, Excel, Power BI, and cloud platforms (Azure, AWS), with a strong background in data visualization, statistical analysis, and automating data workflows to enhance business performance.
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Shrinivas, AI & Analytics Professional with over 2 years of experience in developing data-driven insights, optimizing data processes, and building predictive models to support strategic decision-making. Proficient in Python, SQL, Excel, Power BI, and cloud platforms (Azure, AWS), with a strong background in data visualization, statistical analysis, and automating data workflows to enhance business performance.
 
 `Pronouns: He/Him`
 <div id="badges">
