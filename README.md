@@ -37,6 +37,7 @@
 <br />
 
 ### 🔨 Recent Updates
+- [Generative-AI-Healthcare-Bot-with-RAG-Pipeline](https://github.com/Shrini9797/Generative-AI-Healthcare-Bot-with-RAG-Pipeline) - `Aug 2024`, `RAG`, `GPT_v4`, `LangChain`
 - [Social Media Listening on Reddit: NLP](https://blog.gopenai.com/social-media-listening-using-reddit-real-time-data-processing-with-kafka-f7aa175eb109) - `May 2024`, `NLP`, `Kafka`, `Sentiment Analysis`
 - [Surveillance System for Bike Rider Identification](https://github.com/Shrini9797/Enhanced-Surveillance-System-for-Bike-Rider-Identification) -  `Python`, `Computer Vision`, `Tensorflow`, `Yolo`
 ---
