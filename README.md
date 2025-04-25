@@ -37,7 +37,7 @@
 <br />
 
 ### 🔨 Recent Updates
-- [OdooChat – Generative AI Chatbot for Business ERP Automation] (https://github.com/Shrini9797/odoo-chat-agent) - `RAG`, `LLm`, `LORA`, `GCP`
+- [OdooChat – Generative AI Chatbot for Business ERP Automation](https://github.com/Shrini9797/odoo-chat-agent) -  `LLm`, `Langraph`, `RAG`
 - [Generative-AI-Agent-for-Remote-Healthcare-Assistance](https://github.com/Shrini9797/odoo-chat-agent) -  `LLm`, `LORA`, `GCP`
 - [Generative-AI-Healthcare-Bot-with-RAG-Pipeline](https://github.com/Shrini9797/Generative-AI-Healthcare-Bot-with-RAG-Pipeline) - `RAG`, `GPT_v4`, `LangChain`
 - [Social Media Listening on Reddit: NLP](https://blog.gopenai.com/social-media-listening-using-reddit-real-time-data-processing-with-kafka-f7aa175eb109) -  `NLP`, `Kafka`, `Sentiment Analysis`
